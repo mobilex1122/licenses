@@ -3,8 +3,22 @@
 Custom Licenses uses for my projects.
 
 ## Licenses
-### JP MIT License
+
+### JP MIT License (JPML)
+
 - [JPML 1.0](JPML/JPML_1.0.md)
+
+### JP LGPL License (JPLGL)
+
+TBD
+
+### JP Open License (JPOL)
+
+TBD
+
+### JP Closed License (JPPL)
+
+TBD
 
 ## Contribution
 
