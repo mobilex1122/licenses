@@ -7,6 +7,7 @@ Custom Licenses uses for my projects.
 ### JP MIT License (JPML)
 
 - [JPML 1.0](JPML/JPML_1.0.md)
+- [JPML 1.1](JPML/JPML_1.1.md)
 
 ### JP LGPL License (JPLGL)
 
