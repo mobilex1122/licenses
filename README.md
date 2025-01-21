@@ -21,9 +21,11 @@ TBD
 
 TBD
 
-### JP Closed License (JPPL)
+### JP Proprietary License (JPPL)
 
-TBD
+License used on private repos.
+
+- [JPPL 1.0](JPPL/JPPL_1.0.md)
 
 ## Contribution
 
