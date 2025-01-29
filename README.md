@@ -4,7 +4,7 @@ Custom Licenses uses for my projects.
 
 ## Disclaimer
 
-Some open-source licenses might not comply with the official FOSS definition defined by OSI.
+Some "open-source" licenses might not comply with the official FOSS definition defined by OSI.
 
 ## Licenses
 
